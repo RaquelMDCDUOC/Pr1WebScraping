@@ -6,4 +6,4 @@ Integrantes del equipo:
 - Raquel Martín de Consuegra Domínguez
 - Marta García González
 
-Proyecto de web scraping sobre páginas que contienen BBDD de cine (imdb y filmaffinity)
+Proyecto de web scraping sobre páginas que contienen BBDD de cine (imdb y ecartelera)
